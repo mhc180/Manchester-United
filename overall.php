@@ -1,0 +1,447 @@
+<!doctype html>
+<html lang="en">
+	<?php include "Templates/head.php"; ?>
+	<body class="container-fluid">
+	    <?php include "Templates/nav.php"; ?>
+
+		<div class="overall">
+			<h1>Statistics</h1>
+
+			<h2>Appearances</h2>
+	 			<p>Youngest first-team player: 16 years, 19 days – David Gaskell vs Manchester City, Charity Shield, 24 October 1956</p>
+				<p>Oldest first-team player: 46 years, 281 days – Billy Meredith vs Derby County, First Division, 7 May 1921</p>
+				<p>Oldest post-Second World War player: 40 years, 211 days – Edwin van der Sar vs Barcelona, UEFA Champions League, 28 May 2011</p>
+				<p>Most consecutive League appearances: 206 – Steve Coppell, 15 January 1977 to 7 November 1981</p>
+				<p>Shortest appearance: 11 seconds – Chris Smalling vs Norwich City, Premier League, 26 February 2012</p>
+				<h4>Players with most appearances</h4>
+				<table>
+					<thead>
+						<th>Rank</th><th>Name</th><th>Nation</th><th>Position</th><th>Appearances</th>
+					</thead>
+					<tbody>
+						<tr>
+							<td>1</td><td>Ryan Giggs</td><td>Wales</td><td>Mid</td><td>963</td>
+						</tr>
+						<tr>
+							<td>2</td><td>Bobby Charlton</td><td>England</td><td>Fwd</td><td>758</td>
+						</tr>
+						<tr>
+							<td>3</td><td>Paul Scholes</td><td>England</td><td>Mid</td><td>748</td>
+						</tr>
+						<tr>
+							<td>4</td><td>Bill Foulkes</td><td>England</td><td>Def</td><td>688</td>
+						</tr>
+						<tr>
+							<td>5</td><td>Gary Neville</td><td>England</td><td>Def</td><td>602</td>
+						</tr>
+						<tr>
+							<td>6</td><td>Wayne Rooney</td><td>England</td><td>Fwd</td><td>559</td>
+						</tr>
+						<tr>
+							<td>7</td><td>Alex Stepney</td><td>England</td><td>GK</td><td>539</td>
+						</tr>
+						<tr>
+							<td>8</td><td>Tony Dunne</td><td>Ireland</td><td>Def</td><td>535</td>
+						</tr>
+						<tr>
+							<td>9</td><td>Denis Irwin</td><td>Ireland</td><td>Def</td><td>529</td>
+						</tr>
+						<tr>
+							<td>10</td><td>Joe Spence</td><td>England</td><td>Fwd</td><td>510</td>
+						</tr>
+					</tbody>
+				</table>
+			<hr>
+			<h2>Goalscorers</h2>
+				<p>Most goals in a season in all competitions: 46 – Denis Law, 1963-64</p>
+				<p>Most League goals in a season: 32 – Dennis Viollet, 1959-60</p>
+				<p>Most League goals in a 38-game season: 31 – Cristiano Ronaldo, 2007/08</p>
+				<p>Top League scorer with fewest goals in a season: 6 – Bobby Charlton, 1972-73 & Sammy McIlroy, 1973-74</p>
+				<p>Most goals scored in a match: 6 – Harold Halse vs Swindon Town, 25 September 1911 & George Best vs Northampton Town, 7 February 1970</p>
+				<p>Goals in consecutive league matches: 10 consecutive matches – Ruud van Nistelrooy, 22 March 2003 to 23 August 2003</p>
+				<p>Fastest goal: 12 seconds – Bryan Robson vs Burnley, League Cup, 26 September 1984</p>
+				<p>Fastest hat-trick: 4 minutes – Ernie Goldthorpe vs Notts County, Second Division, 10 February 1923</p>
+				<p>Fastest four goals: 13 minutes – Ole Gunnar Solskjær vs Nottingham Forest, Premier League, 6 February 1999</p>
+				<p>Most hat-tricks: 18 – Denis Law, 3 November 1962 – 17 April 1971</p>
+				<h4>Players with most goals</h4>
+				<table>
+					<thead>
+						<th>Rank</th><th>Name</th><th>Nation</th><th>Goals</th><th>Goals per game</th>
+					</thead>
+					<tbody>
+						<tr>
+							<td>1</td><td>Wayne Rooney</td><td>England</td><td>253</td><td>0.45</td>
+						</tr>
+						<tr>
+							<td>2</td><td>Bobby Charlton</td><td>England</td><td>249</td><td>0.33</td>
+						</tr>
+						<tr>
+							<td>3</td><td>Denis Law</td><td>Scotland</td><td>237</td><td>0.59</td>
+						</tr>
+						<tr>
+							<td>4</td><td>Jack Rowley</td><td>England</td><td>211</td><td>0.50</td>
+						</tr>
+						<tr>
+							<td>5</td><td>Dennis Viollet</td><td>England</td><td>179</td><td>0.61</td>
+						</tr>
+						<tr>
+							<td>5</td><td>George Best</td><td>N. Ireland</td><td>179</td><td>0.38</td>
+						</tr>
+						<tr>
+							<td>7</td><td>Joe Spence</td><td>England</td><td>168</td><td>0.33</td>
+						</tr>
+						<tr>
+							<td>7</td><td>Ryan Giggs</td><td>Wales</td><td>168</td><td>0.17</td>
+						</tr>
+						<tr>
+							<td>9</td><td>Mark Hughes</td><td>Wales</td><td>163</td><td>0.35</td>
+						</tr>
+						<tr>
+							<td>10</td><td>Paul Scholes</td><td>England</td><td>155</td><td>0.22</td>
+						</tr>
+					</tbody>
+				</table>
+			<hr>
+			<h2>Award winners (while at United)</h2>
+				<p>Ballon d'Or winners: Denis Law, 1964 & Bobby Charlton, 1966 & George Best, 1968 & Cristiano Ronaldo, 2008</p>
+				<p>European Golden Shoe: Cristiano Ronaldo (31 goals), 2008</p>
+				<p>FIFA World Cup winners: England Bobby Charlton, Nobby Stiles, John Connelly,1966 & France Paul Pogba, 2018</p>
+				<p>UEFA European Championship winners: Denmark Peter Schmeichel, 1992</p>
+				<p>FIFA World Player of the Year winners: Portugal Cristiano Ronaldo, 2008</p>
+				<p>UEFA Club Footballer of the Year winners: England David Beckham, 1999 & Portugal Cristiano Ronaldo, 2008
+				<p>FIFA Puskás Award winners: Portugal Cristiano Ronaldo, 2009</p>
+			<hr>
+			<h2>Internationals</h2>
+				<p>First international: Jack Powell and Tom Burke for Wales</p>
+				<p>Most international caps as a United player: 106 – Bobby Charlton – England</p>
+			<hr>
+			<h2>Transfers</h2>
+				<h4>Highest transfer fees paid</h4>
+					<table>
+						<thead>
+							<th>Rank</th><th>Player</th><th>Nation</th><th>Fee</th><th>From</th><th>Date</th>
+						</thead>
+						<tbody>
+							<tr>
+								<td>1</td><td>Paul Pogba</td><td>France</td><td>£89.3m</td><td>Juventus</td><td>August 2016</td>
+							</tr>
+							<tr>
+								<td>2</td><td>Romelu Lukaku</td><td>Belgium</td><td>£75m</td><td>Everton</td><td>July 2017</td>
+							</tr>
+							<tr>
+								<td>3</td><td>Angel Di Maria</td><td>Argentina</td><td>£59.7m</td><td>Real Madrid</td><td>August 2014</td>
+							</tr>
+							<tr>
+								<td>4</td><td>Fred</td><td>Brazil</td><td>£47m</td><td>Shakhtar Donetsk</td><td>June 2018</td>
+							</tr>
+							<tr>
+								<td>5</td><td>Nemanja Matic</td><td>Serbia</td><td>£40m</td><td>Chelsea</td><td>July 2017</td>
+							</tr>
+							<tr>
+								<td>6</td><td>Juan Mata</td><td>Spain</td><td>£37.1m</td><td>Chelsea</td><td>January 2014</td>
+							</tr>
+							<tr>
+								<td>7</td><td>Anthony Martial</td><td>France</td><td>£36m</td><td>Monaco</td><td>September 2015</td>
+							</tr>
+							<tr>
+								<td>8</td><td>Victor Lindelöf</td><td>Sweden</td><td>£31m</td><td>Benfica</td><td>June 2017</td>
+							</tr>
+							<tr>
+								<td>9</td><td>Dimitar Berbatov</td><td>Bulgaria</td><td>£30.75m</td><td>Spurs</td><td>September 2008</td>
+							</tr>
+							<tr>
+								<td>10</td><td>Eric Bailly</td><td>Ivory Coast</td><td>£30m</td><td>Villarreal</td><td>June 2016</td>
+							</tr>
+						</tbody>
+					</table>
+					<br>
+				<h4>Transfer record breakers</h4>
+				<table>
+					<thead>
+						<th>Player</th><th>Nation</th><th>Fee</th><th>From</th><th>Date</th>
+					</thead>
+					<tbody>
+						<tr>
+							<td>Gilbert Godsmark</td><td>England</td><td>£40</td><td>Ashford</td><td>January 1900</td>
+						</tr>
+						<tr>
+							<td>Alex Bell</td><td>Scotland</td><td>£700</td><td>Ayr Parkhouse</td><td>January 1903</td>
+						</tr>
+						<tr>
+							<td>Leslie Hofton</td><td>England</td><td>£1000</td><td>Glossop</td><td>July 1910</td>
+						</tr>
+						<tr>
+							<td>George Hunter</td><td>England</td><td>£1300</td><td>Chelsea</td><td>March 1914</td>
+						</tr>
+						<tr>
+							<td>Tom Miller</td><td>Scotland</td><td>£2000</td><td>Liverpool</td><td>September 1920</td>
+						</tr>
+						<tr>
+							<td>Neil McBain</td><td>Scotland</td><td>£6000</td><td>Ayr United</td><td>November 1921</td>
+						</tr>
+						<tr>
+							<td>Jack Smith</td><td>England</td><td>£6500</td><td>Newcastle</td><td>February 1938</td>
+						</tr>
+						<tr>
+							<td>John Downie</td><td>Scotland</td><td>£18,000</td><td>Bradford</td><td>March 1949</td>
+						</tr>
+						<tr>
+							<td>Tommy Taylor</td><td>England</td><td>£29,999</td><td>Barnsley</td><td>March 1953</td>
+						</tr>
+						<tr>
+							<td>Albert Quixall</td><td>England</td><td>£45,000</td><td>Sheffield Wednesday</td><td>September 1958</td>
+						</tr>
+						<tr>
+							<td>Denis Law</td><td>Scotland</td><td>£110,000</td><td>Torino</td><td>August 1962</td>
+						</tr>
+						<tr>
+							<td>Willie Morgan</td><td>Scotland</td><td>£117,000</td><td>Burnley</td><td>August 1968</td>
+						</tr>
+						<tr>
+							<td>Martin Buchan</td><td>Scotland</td><td>£125,000</td><td>Aberdeen</td><td>February 1972</td>
+						</tr>
+						<tr>
+							<td>Ian Storey-Moore</td><td>England</td><td>£200,000</td><td>Nottingham Forest</td><td>March 1972</td>
+						</tr>
+						<tr>
+							<td>Joe Jordan</td><td>Scotland</td><td>£350,000</td><td>Leeds United</td><td>January 1978</td>
+						</tr>
+						<tr>
+							<td>Gordon McQueen</td><td>Scotland</td><td>£495,000</td><td>Leeds United</td><td>February 1978</td>
+						</tr>
+						<tr>
+							<td>Ray Wilkins</td><td>England</td><td>£825,000</td><td>Chelsea</td><td>August 1979</td>
+						</tr>
+						<tr>
+							<td>Gary Birtles</td><td>England</td><td>£1,250,000</td><td>Nottingham Forest</td><td>October 1980</td>
+						</tr>
+						<tr>
+							<td>Bryan Robson</td><td>England</td><td>£1,500,000</td><td>West Bromwich Albion</td><td>October 1981</td>
+						</tr>
+						<tr>
+							<td>Mark Hughes</td><td>Wales</td><td>£1,800,000</td><td>Barcelona</td><td>June 1988</td>
+						</tr>
+						<tr>
+							<td>Gary Pallister</td><td>Scotland</td><td>£2,300,000</td><td>Middlesbrough</td><td>August 1989</td>
+						</tr>
+						<tr>
+							<td>Roy Keane</td><td>Ireland</td><td>£3,750,000</td><td>Nottingham Forest</td><td>July 1993</td>
+						</tr>
+						<tr>
+							<td>Andy Cole</td><td>England</td><td>£7,000,000</td><td>Newcastle United</td><td>January 1995</td>
+						</tr>
+						<tr>
+							<td>Jaap Stam</td><td>Netherlands</td><td>£10,750,000</td><td>PSV Eindhoven</td><td>July 1998</td>
+						</tr>
+						<tr>
+							<td>Dwight Yorke</td><td>Trinidad and Tobago</td><td>£12,600,000</td><td>Aston Villa</td><td>August 1998</td>
+						</tr>
+						<tr>
+							<td>Ruud van Nistelrooy</td><td>Netherlands</td><td>£19,000,000</td><td>PSV Eindhoven</td><td>June 2001</td>
+						</tr>
+						<tr>
+							<td>Juan Sebastián Verón</td><td>Argentina</td><td>£28,100,000</td><td>Lazio</td><td>July 2001</td>
+						</tr>
+						<tr>
+							<td>Rio Ferdinand</td><td>England</td><td>£29,300,000</td><td>Leeds United</td><td>July 2002</td>
+						</tr>
+						<tr>
+							<td>Dimitar Berbatov</td><td>Bulgaria</td><td>£30,750,000</td><td>Tottenham Hotspur</td><td>September 2008</td>
+						</tr>
+						<tr>
+							<td>Juan Mata</td><td>Spain</td><td>£37,100,000</td><td>Chelsea</td><td>January 2014</td>
+						</tr>
+						<tr>
+							<td>Ángel Di María</td><td>Argentina</td><td>£59,700,000</td><td>Real Madrid</td><td>August 2014</td>
+						</tr>
+						<tr>
+							<td>Paul Pogba</td><td>France</td><td>£89,300,000</td><td>Juventus</td><td>August 2016</td>
+						</tr>
+					</tbody>
+				</table>
+				<br>
+				<h4>Highest transfer fees received</h4>
+				<table>
+					<thead>
+						<th>Rank</th><th>Player</th><th>Nation</th><th>Fee</th><th>To</th><th>Date</th>
+					</thead>
+					<tbody>
+						<tr>
+							<td>1</td><td>Cristiano Ronaldo</td><td>Portugal</td><td>£80,000,000</td><td>Real Madrid</td><td>July 2009</td>
+						</tr>
+						<tr>
+							<td>2</td><td>Ángel Di María</td><td>Argentina</td><td>£44,300,000</td><td>PSG</td><td>August 2015</td>
+						</tr>
+						<tr>
+							<td>3</td><td>David Beckham</td><td>England</td><td>£24,500,000</td><td>Real Madrid</td><td>June 2003</td>
+						</tr>
+						<tr>
+							<td>4</td><td>Morgan Schneiderlin</td><td>France</td><td>£24,000,000</td><td>Everton</td><td>January 2017</td>
+						</tr>
+						<tr>
+							<td>5</td><td>Memphis Depay</td><td>Netherlands</td><td>£16,000,000</td><td>Lyon</td><td>January 2017</td>
+						</tr>
+						<tr>
+							<td>6</td><td>Danny Welbeck</td><td>England</td><td>£16,000,000</td><td>Arsenal</td><td>September 2014</td>
+						</tr>
+						<tr>
+							<td>7</td><td>Jaap Stam</td><td>Netherlands</td><td>£15,250,000</td><td>Lazio</td><td>August 2001</td>
+						</tr>
+						<tr>
+							<td>8</td><td>Juan Sebastián Verón</td><td>Argentina</td><td>£15,000,000</td><td>Chelsea</td><td>August 2003</td>
+						</tr>
+						<tr>
+							<td>9</td><td>Daley Blind</td><td>Netherlands</td><td>£14,000,000</td><td>Ajax</td><td>July 2018</td>
+						</tr>
+						<tr>
+							<td>10</td><td>Ruud van Nistelrooy</td><td>Netherlands</td><td>£10,200,000</td><td>Real Madrid</td><td>July 2006</td>
+						</tr>
+					</tbody>
+				</table>
+				<br>
+				<h4>Progression of record fee received</h4>
+				<table>
+					<thead>
+						<th>Player</th><th>Nation</th><th>Fee</th><th>To</th><th>Date</th>
+					</thead>
+					<tbody>
+						<tr>
+							<td>William Bryant</td><td>England</td><td>£50</td><td>Blackburn Rovers</td><td>April 1900</td>
+						</tr>
+						<tr>
+							<td>Joe Cassidy</td><td>Scotland</td><td>£250</td><td>Manchester City</td><td>April 1900</td>
+						</tr>
+						<tr>
+							<td>Alex Downie</td><td>Scotland</td><td>£600</td><td>Oldham Athletic</td><td>October 1909</td>
+						</tr>
+						<tr>
+							<td>Ted Connor</td><td>England</td><td>£750</td><td>Sheffield United</td><td>June 1911</td>
+						</tr>
+						<tr>
+							<td>Harold Halse</td><td>England</td><td>£1,200</td><td>Aston Villa</td><td>July 1912</td>
+						</tr>
+						<tr>
+							<td>Charlie Roberts</td><td>England</td><td>£1,750</td><td>Oldham Athletic</td><td>August 1913</td>
+						</tr>
+						<tr>
+							<td>Tommy Meehan</td><td>England</td><td>£3,300</td><td>Chelsea</td><td>December 1920</td>
+						</tr>
+						<tr>
+							<td>George Mutch</td><td>Scotland</td><td>£5,000</td><td>Preston North End</td><td>September 1937</td>
+						</tr>
+						<tr>
+							<td>Joe Walton</td><td>England</td><td>£10,000</td><td>Preston North End</td><td>March 1948</td>
+						</tr>
+						<tr>
+							<td>Johnny Morris</td><td>England</td><td>£24,500</td><td>Derby County</td><td>March 1949</td>
+						</tr>
+						<tr>
+							<td>Dennis Viollet</td><td>England</td><td>£25,000</td><td>Stoke City</td><td>January 1962</td>
+						</tr>
+						<tr>
+							<td>Warren Bradley</td><td>England</td><td>£40,000</td><td>Bury</td><td>March 1962</td>
+						</tr>
+						<tr>
+							<td>Francis Burns</td><td>Scotland</td><td>£50,000</td><td>Southampton</td><td>June 1972</td>
+						</tr>
+						<tr>
+							<td>Alan Gowling</td><td>England</td><td>£60,000</td><td>Huddersfield Town</td><td>June 1972</td>
+						</tr>
+						<tr>
+							<td>Ted MacDougall</td><td>Scotland</td><td>£130,000</td><td>West Ham United</td><td>March 1973</td>
+						</tr>
+						<tr>
+							<td>Gerry Daly</td><td>Ireland</td><td>£175,000</td><td>Derby County</td><td>March 1977</td>
+						</tr>
+						<tr>
+							<td>Gordon Hill</td><td>England</td><td>£250,000</td><td>Derby County</td><td>April 1978</td>
+						</tr>
+						<tr>
+							<td>Brian Greenhoff</td><td>England</td><td>£350,000</td><td>Leeds United</td><td>August 1979</td>
+						</tr>
+						<tr>
+							<td>Andy Ritchie</td><td>England</td><td>£500,000</td><td>Brighton & Hove Albion</td><td>October 1980</td>
+						</tr>
+						<tr>
+							<td>Ray Wilkins</td><td>England</td><td>£1,500,000</td><td>Milan</td><td>June 1984</td>
+						</tr>
+						<tr>
+							<td>Mark Hughes</td><td>Wales</td><td>£2,500,000</td><td>Barcelona</td><td>August 1986</td>
+						</tr>
+						<tr>
+							<td>Paul Ince</td><td>England</td><td>£7,000,000</td><td>Internazionale</td><td>July 1995</td>
+						</tr>
+						<tr>
+							<td>Jaap Stam</td><td>Netherlands</td><td>£12,250,000</td><td>Lazio</td><td>August 2001</td>
+						</tr>
+					</tbody>
+				</table>
+			<hr>
+			<h2>Managerial records</h2>
+				<p>First full-time manager: Jack Robson</p>
+				<p>Longest-serving manager: Sir Alex Ferguson – 26 years, 194 days (1,500 matches) (6 November 1986 to 19 May 2013)</p>
+			<hr>
+			<h2>Matches</h2>
+				<p>First competitive match: Newton Heath 2–7 Blackburn Olympic Reserves, Lancashire Cup, 27 October 1883</p>
+				<p>First FA Cup match: Fleetwood Rangers 2–2 Newton Heath, First Round, 30 October 1886</p>
+				<p>First Combination match: Newton Heath 4–3 Darwen, 22 September 1888</p>
+				<p>First Football Alliance match: Newton Heath 4–1 Sunderland Albion, 21 September 1889</p>
+				<p>First Football League match: Blackburn Rovers 4–3 Newton Heath, 3 September 1892</p>
+				<p>First match at Old Trafford: Manchester United 3–4 Liverpool, 19 February 1910</p>
+				<p>First European match: Anderlecht 0–2 Manchester United, European Cup Preliminary Round, first leg, 12 September 1956</p>
+				<p>First League Cup match: Exeter City 1–1 Manchester United, First Round, 19 October 1960</p>
+				<h3>Record wins</h3>
+				Record League win: 10–1 vs Wolverhampton Wanderers, First Division, 15 October 1892 & 9–0 vs Walsall, Second Division, 3 April 1895 & 9–0 vs Darwen, Second Division, 24 December 1898 &  9–0 vs Ipswich Town, Premier League, 4 March 1995</p>
+				<p>Record FA Cup win: 8–0 vs Yeovil Town, 12 February 1949</p>
+				<p>Record European win: 10–0 vs Anderlecht, European Cup Preliminary Round, second leg, 26 September 1956</p>
+				<p>Record Champions League win: 7–1 vs Roma, Champions League Quarter-final, second leg, 10 April 2007</p>
+				<p>Record home win 10–0 vs Anderlecht, European Cup Preliminary Round, second leg, 26 September 1956</p>
+				<p>Record away win: 7–0 vs Grimsby Town, Second Division, 26 December 1899 & 8–1 vs Nottingham Forest, Premier League, 6 February 1999</p>
+				<h3>Record defeats</h3>
+				<p>Record League defeat: 0–7 vs Blackburn Rovers, First Division, 10 April 1926 & 0-7 vs Aston Villa, First Division, 27 December 1930 & 0-7 vs Wolverhampton Wanderers, Second Division, 26 December 1931</p>
+				<p>Record Premier League defeat: 0–5 vs Newcastle United, 20 October 1996 & 0–5 vs Chelsea, 3 October 1999 & 1–6 vs Manchester City, 23 October 2011</p>
+				<p>Record FA Cup defeat: 1–7 vs Burnley, First Round, 13 February 1901 & 0–6 vs Sheffield Wednesday, Second Round, 20 February 1904</p>
+				<p>Record European defeat: 0–5 vs Sporting, Cup Winners' Cup quarter-final, 18 March 1964</p>
+				<p>Record friendly defeat: 0-6 vs Hajduk Split, 27 January 1980</p>
+				<p>Record home defeat: 0–6 vs Aston Villa, First Division, 14 March 1914 & 1–7 v Newcastle United, First Division, 10 September 1927 & 0–6 v Huddersfield Town, First Division, 10 September 1930</p>
+				<p>Record away defeat: 0–7 vs Blackburn Rovers, First Division, 10 April 1926 & 0-7 vs Aston Villa, First Division, 27 December 1930 & 0-7 vs Wolverhampton Wanderers, Second Division, 26 December 1931</p>
+			<hr>
+			<h2>Streaks</h2>
+				<p>Longest unbeaten run (all major competitions): 45 matches, 26 December 1998 to 3 October 1999</p>
+				<p>Longest unbeaten run (League): 29 matches – 26 December 1998 to 25 September 1999, 11 April 2010 to 5 February 2011</p>
+				<p>Longest winning streak (League): 14 matches – 15 October 1904 to 3 January 1905</p>
+				<p>Longest losing streak (League): 14 matches – 26 April 1930 to 25 October 1930</p>
+				<p>Longest drawing streak (League): 6 matches – 30 October 1988 to 27 November 1988</p>
+				<p>Longest streak without a win (League): 16 matches – 19 April 1930 to 25 October 1930</p>
+				<p>Longest scoring run (League): 36 matches – 3 December 2007 to 15 November 2008</p>
+				<p>Longest non-scoring run (League): 5 matches – 22 February 1902 to 17 March 1902</p>
+				<p>Longest streak without conceding a goal (League): 14 matches – 15 November 2008 to 18 February 2009</p>
+			<hr>
+			<h2>Wins/draws/losses in a season</h2>
+				<p>Most wins in a league season: 28 – 1905–06, 1956–57, 1999–2000, 2006–07, 2008–09, 2011–12, 2012–13</p>
+				<p>Most draws in a league season: 18 – 1980–81</p>
+				<p>Most defeats in a league season: 27 – 1930–31</p>
+				<p>Fewest wins in a league season: 6 – 1892–93, 1893–94</p>
+				<p>Fewest draws in a league season: 2 – 1893–94</p>
+				<p>Fewest defeats in a league season: 3 – 1998–99, 1999–2000</p>
+			<hr>
+			<h2>Goals</h2>
+				<p>Most League goals scored in a season: 103 – 1956–57, 1958–59</p>
+				<p>Most Premier League goals scored in a season: 97 – 1999–2000</p>
+				<p>Fewest League goals scored in a season: 36 – 1893–94</p>
+				<p>Most League goals conceded in a season: 115 – 1930–31</p>
+				<p>Fewest League goals conceded in a season: 22 – 2007–08</p>
+			<hr>
+			<h2>Points</h2>
+				<p>Most points in a season: 92 in 42 matches, Premier League, 1993–94 & 91 in 38 matches, Premier League, 1999–2000</p>
+				<p>Fewest points in a season: 48 in 38 matches, First Division, 1989–90</p>
+			<hr>
+			<h2>Attendances</h2>
+				<p>Highest home attendance: 83,260 v Arsenal at Maine Road, First Division, 17 January 1948</p>
+				<p>Highest home attendance at Old Trafford: 76,098 v Blackburn Rovers, 31 March 2007</p>
+				<p>Highest away attendance: 135,000 v Real Madrid, European Cup, 11 April 1957</p>
+				<p>Lowest post-War home league attendance: 8,456 v Stoke City at Maine Road, First Division, 5 February 1947</p>
+		</div>
+		<?php include "Templates/footer.php"; ?>
+	</body>
+</html>
